@@ -7,16 +7,16 @@ A multi-page Power BI dashboard analyzing Brazilian e-commerce transaction data,
 ## 📸 Dashboard Preview
 
 ### Revenue Overview
-![Revenue Overview](assets/screenshots/revenue_overview.png)
+![Revenue Overview](./Assets/revenue_overview.png)
 
 ### Order Behaviour
-![Order Behaviour](assets/screenshots/order_behaviour.png)
+![Order Behaviour](./Assets/order_behaviour.png)
 
 ### Product Performance
-![Product Performance](assets/screenshots/product_performance.png)
+![Product Performance](./Assets/product_performance.png)
 
 ### Customer Behaviour
-![Customer Behaviour](assets/screenshots/customer_behaviour.png)
+![Customer Behaviour](./Assets/customer_behaviour.png)
 
 ---
 
@@ -63,7 +63,6 @@ ecommerce-sales-dashboard/
 │   ├── 04_cities_with_most_repeat_customers.sql
 │   └── 05_top_10_customers_by_revenue.sql
 └── assets/
-    └── screenshots/
         ├── revenue_overview.png
         ├── order_behaviour.png
         ├── product_performance.png
