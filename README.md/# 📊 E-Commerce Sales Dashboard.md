@@ -7,16 +7,16 @@ A multi-page Power BI dashboard analyzing Brazilian e-commerce transaction data,
 ## 📸 Dashboard Preview
 
 ### Revenue Overview
-![Revenue Overview](./Assets/Revenue Overview.png)
+![Revenue Overview](./Assets/revenue_overview.png)
 
 ### Order Behaviour
-![Order Behaviour](./Assets/Orders Overview.png)
+![Order Behaviour](./Assets/order_behaviour.png)
 
 ### Product Performance
-![Product Performance](./Assets/Product Performance.png)
+![Product Performance](./Assets/product_performance.png)
 
 ### Customer Behaviour
-![Customer Behaviour](./Assets/Customer Behaviour.png)
+![Customer Behaviour](./Assets/customer_behaviour.png)
 
 ---
 
